@@ -56484,15 +56484,15 @@ const navigator_Navigator = Object.assign(component_Navigator, {
    * import { Navigator } from '@wordpress/components';
    *
    * const MyNavigation = () => (
-   *   <Navigator initialPath="/">
-   *     <Navigator.Screen path="/">
+   *   <Navigator initialPath="https://vishal-webreach.github.io/jmbrand/">
+   *     <Navigator.Screen path="https://vishal-webreach.github.io/jmbrand/">
    *       <p>This is the home screen.</p>
-   *        <Navigator.Button path="/child">
+   *        <Navigator.Button path="https://vishal-webreach.github.io/jmbrand/child">
    *          Navigate to child screen.
    *       </Navigator.Button>
    *     </Navigator.Screen>
    *
-   *     <Navigator.Screen path="/child">
+   *     <Navigator.Screen path="https://vishal-webreach.github.io/jmbrand/child">
    *       <p>This is the child screen.</p>
    *       <Navigator.BackButton>
    *         Go back
@@ -56515,15 +56515,15 @@ const navigator_Navigator = Object.assign(component_Navigator, {
    * import { Navigator } from '@wordpress/components';
    *
    * const MyNavigation = () => (
-   *   <Navigator initialPath="/">
-   *     <Navigator.Screen path="/">
+   *   <Navigator initialPath="https://vishal-webreach.github.io/jmbrand/">
+   *     <Navigator.Screen path="https://vishal-webreach.github.io/jmbrand/">
    *       <p>This is the home screen.</p>
-   *        <Navigator.Button path="/child">
+   *        <Navigator.Button path="https://vishal-webreach.github.io/jmbrand/child">
    *          Navigate to child screen.
    *       </Navigator.Button>
    *     </Navigator.Screen>
    *
-   *     <Navigator.Screen path="/child">
+   *     <Navigator.Screen path="https://vishal-webreach.github.io/jmbrand/child">
    *       <p>This is the child screen.</p>
    *       <Navigator.BackButton>
    *         Go back
@@ -56546,15 +56546,15 @@ const navigator_Navigator = Object.assign(component_Navigator, {
    * import { Navigator } from '@wordpress/components';
    *
    * const MyNavigation = () => (
-   *   <Navigator initialPath="/">
-   *     <Navigator.Screen path="/">
+   *   <Navigator initialPath="https://vishal-webreach.github.io/jmbrand/">
+   *     <Navigator.Screen path="https://vishal-webreach.github.io/jmbrand/">
    *       <p>This is the home screen.</p>
-   *        <Navigator.Button path="/child">
+   *        <Navigator.Button path="https://vishal-webreach.github.io/jmbrand/child">
    *          Navigate to child screen.
    *       </Navigator.Button>
    *     </Navigator.Screen>
    *
-   *     <Navigator.Screen path="/child">
+   *     <Navigator.Screen path="https://vishal-webreach.github.io/jmbrand/child">
    *       <p>This is the child screen.</p>
    *       <Navigator.BackButton>
    *         Go back
