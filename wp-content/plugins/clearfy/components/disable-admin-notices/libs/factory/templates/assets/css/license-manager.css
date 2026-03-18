@@ -100,7 +100,7 @@
 
 .license-message .alert-warning-icon {
     padding-left: 60px;
-    background-image: url("/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/templates/assets/img/warning.png");
+    background-image: url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/templates/assets/img/warning.png");
     background-position: 15px 11px;
     background-repeat: no-repeat;
 }
@@ -610,7 +610,7 @@
 }
 
 #create-account .onp-container {
-    background: #fff url("/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/templates/assets/img/create-account-bg.png") no-repeat 370px 230px !important;
+    background: #fff url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/templates/assets/img/create-account-bg.png") no-repeat 370px 230px !important;
 }
 
 #account-created .onp-step {
@@ -650,7 +650,7 @@
 }
 
 #finish .onp-container {
-    background: #fff url("/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/templates/assets/img/finish.png") no-repeat 0 -90px !important;
+    background: #fff url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/templates/assets/img/finish.png") no-repeat 0 -90px !important;
     padding-left: 260px;
     min-height: 250px;
 

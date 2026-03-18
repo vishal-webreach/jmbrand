@@ -4290,7 +4290,7 @@ div#updraft-restore-modal .udp-notice, .udp-notice.updraft-restore-option {
 
 .udp-dashicons-database-view:before {
 	content: "";
-	background-image: url("/wp-content/plugins/updraftplus/images/icons/database-view.svg");
+	background-image: url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/updraftplus/images/icons/database-view.svg");
 	display: inline-block;
 	width: 1rem;
 	height: 1rem;

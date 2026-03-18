@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_47_0");
-  src: url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_47_0#iefix") format("embedded-opentype"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_47_0") format("woff2"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_47_0") format("woff"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_47_0") format("truetype"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_47_0#eicon") format("svg");
+  src: url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_47_0");
+  src: url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_47_0#iefix") format("embedded-opentype"), url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_47_0") format("woff2"), url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_47_0") format("woff"), url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_47_0") format("truetype"), url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_47_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }

@@ -764,7 +764,7 @@ input:where([type='file']):focus {
 
   -webkit-font-smoothing: antialiased;
 
-  src: url("/wp-content/plugins/backwpup/assets/fonts/josefin-sans.woff2") format("woff2");
+  src: url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/backwpup/assets/fonts/josefin-sans.woff2") format("woff2");
 }
 
 @font-face {
@@ -780,7 +780,7 @@ input:where([type='file']):focus {
 
   -webkit-font-smoothing: antialiased;
 
-  src: url("/wp-content/plugins/backwpup/assets/fonts/jost.woff2") format("woff2");
+  src: url("https://vishal-webreach.github.io/jmbrand/wp-content/plugins/backwpup/assets/fonts/jost.woff2") format("woff2");
 }
 
 /* Add a custom height utility to handle WP top admin bar */
