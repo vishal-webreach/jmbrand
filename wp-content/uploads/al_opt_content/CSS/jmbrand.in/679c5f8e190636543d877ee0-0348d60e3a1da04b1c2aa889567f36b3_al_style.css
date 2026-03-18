@@ -1,0 +1,1456 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc_convertedd31d6a1884282e850d4b05ba0091351c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc_converted0334c2aab8bb34ff37a0f7c5be3a4682.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc_converted2e5a94c4b46a77c6542258c89d901f7a.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc_convertedfec059c5dd93f803f8658c125d105e3d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc_converted8a4940e3dd180a137dede5b39060c82b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc_converteddb8e4887e1806b2538ef29634b67d0fd.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7_converted1187adcf2835dd4c77b3e49931578968.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:swap;src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-9c9cff93a0d5a209225c1bae18d80a9d_Inter-VariableFont_slnt,wght_convertedb8ab2f2456e8b869e768dda9b0aa7f23.woff2) format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:swap;src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-b782b01afc9646c7259701b07e2a71d0_cardo_normal_400_converted79517486ce2f872201b6fcddab882d46.woff2) format('woff2');}
+@font-face{font-display:swap;font-family:star;src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-c393f8a4a0b17c9054f46f3cce498afd_WooCommerce_converted317d3448e8160019c08a14005e746643.woff2) format('woff2'), url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-dc54d4f864988c37c703a607320e805a_WooCommerce.woff) format('woff'), url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf) format('truetype');font-weight:400;font-style:normal}
+@font-face{font-display:swap;font-family:WooCommerce;src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-c393f8a4a0b17c9054f46f3cce498afd_WooCommerce_converted317d3448e8160019c08a14005e746643.woff2) format('woff2'), url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-dc54d4f864988c37c703a607320e805a_WooCommerce.woff) format('woff'), url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf) format('truetype');font-weight:400;font-style:normal}
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b55b1345f0b919f0cab774ec25d6654e_fa-brands-400_convertedf40c1bd709578b28aae005c2424045ce.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b7dee83cb5ee2c47b053e2620f4bbb78_fa-brands-400.ttf") format('truetype'); }
+@font-face {
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-aa7c5fa494807f7a9ec907defee083e8_fa-regular-400_converted7359605fc4bcb90ba5a3f052a6954613.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-3c264849ff4eb9b6e99eab9cd54c80ae_fa-regular-400.ttf") format('truetype'); }
+@font-face {
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-1ec0ba058c021acf7feaa18081445d63_fa-solid-900_converted5f1e15483ffb8a2fa4f393b9af38d714.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-0a95f951745ba02faa8773ea6a1ebaed_fa-solid-900.ttf") format('truetype'); }
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-display:swap;
+  font-weight: 400;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b55b1345f0b919f0cab774ec25d6654e_fa-brands-400_convertedf40c1bd709578b28aae005c2424045ce.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b7dee83cb5ee2c47b053e2620f4bbb78_fa-brands-400.ttf") format('truetype'); }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-display:swap;
+  font-weight: 900;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-1ec0ba058c021acf7feaa18081445d63_fa-solid-900_converted5f1e15483ffb8a2fa4f393b9af38d714.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-0a95f951745ba02faa8773ea6a1ebaed_fa-solid-900.ttf") format('truetype'); }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-display:swap;
+  font-weight: 400;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-aa7c5fa494807f7a9ec907defee083e8_fa-regular-400_converted7359605fc4bcb90ba5a3f052a6954613.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-3c264849ff4eb9b6e99eab9cd54c80ae_fa-regular-400.ttf") format('truetype'); }
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-1ec0ba058c021acf7feaa18081445d63_fa-solid-900_converted5f1e15483ffb8a2fa4f393b9af38d714.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-0a95f951745ba02faa8773ea6a1ebaed_fa-solid-900.ttf") format('truetype'); }
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b55b1345f0b919f0cab774ec25d6654e_fa-brands-400_convertedf40c1bd709578b28aae005c2424045ce.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b7dee83cb5ee2c47b053e2620f4bbb78_fa-brands-400.ttf") format('truetype'); }
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-aa7c5fa494807f7a9ec907defee083e8_fa-regular-400_converted7359605fc4bcb90ba5a3f052a6954613.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-3c264849ff4eb9b6e99eab9cd54c80ae_fa-regular-400.ttf") format('truetype');
+  unicode-range: U+F003,U+F006,U+F014,U+F016-F017,U+F01A-F01B,U+F01D,U+F022,U+F03E,U+F044,U+F046,U+F05C-F05D,U+F06E,U+F070,U+F087-F088,U+F08A,U+F094,U+F096-F097,U+F09D,U+F0A0,U+F0A2,U+F0A4-F0A7,U+F0C5,U+F0C7,U+F0E5-F0E6,U+F0EB,U+F0F6-F0F8,U+F10C,U+F114-F115,U+F118-F11A,U+F11C-F11D,U+F133,U+F147,U+F14E,U+F150-F152,U+F185-F186,U+F18E,U+F190-F192,U+F196,U+F1C1-F1C9,U+F1D9,U+F1DB,U+F1E3,U+F1EA,U+F1F7,U+F1F9,U+F20A,U+F247-F248,U+F24A,U+F24D,U+F255-F25B,U+F25D,U+F271-F274,U+F278,U+F27B,U+F28C,U+F28E,U+F29C,U+F2B5,U+F2B7,U+F2BA,U+F2BC,U+F2BE,U+F2C0-F2C1,U+F2C3,U+F2D0,U+F2D2,U+F2D4,U+F2DC; }
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-fdb652dcc200dd23b8b8040176858c36_fa-v4compatibility_converted5b4d972d6195f1d6cd4083e95e1fbfc6.woff2) format('woff2'), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-95b97efa98f9e3fb869bc9634c43a0cc_fa-v4compatibility.ttf") format('truetype');
+  unicode-range: U+F041,U+F047,U+F065-F066,U+F07D-F07E,U+F080,U+F08B,U+F08E,U+F090,U+F09A,U+F0AC,U+F0AE,U+F0B2,U+F0D0,U+F0D6,U+F0E4,U+F0EC,U+F10A-F10B,U+F123,U+F13E,U+F148-F149,U+F14C,U+F156,U+F15E,U+F160-F161,U+F163,U+F175-F178,U+F195,U+F1F8,U+F219,U+F27A; }
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-1b4876e8f89cb8bcb2fe98c3b7775ab2_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B_converted6bf562c745484084f041823a8a569d32.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-be9491830eef0a52b8f715230c2b720f_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B_converteda24aa8a278465126729f0d40180643d7.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-2dff8663740c6f663569532bf1fc565b_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B_convertedf79f7c6db46a8b62d1720871c690889d.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-f3c37fa7155570247a4159a712a44438_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B_converted497f3111707b8177473c0c39e896484d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-3a0abe0fe0ef752be655028d47db5c35_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B_converted7963179ea805eb8d3770dec964594ad9.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-39b692b0621910a0dbfd8824e014d9fd_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B_converted8e7a050d5733a0aac5e1ef553460db00.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-3714175d15f37e385c0d80f1c8f4fb42_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA_convertedcb191e71905625fa5d2bb01ce11cfa02.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-1b4876e8f89cb8bcb2fe98c3b7775ab2_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B_converted6bf562c745484084f041823a8a569d32.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-be9491830eef0a52b8f715230c2b720f_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B_converteda24aa8a278465126729f0d40180643d7.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-2dff8663740c6f663569532bf1fc565b_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B_convertedf79f7c6db46a8b62d1720871c690889d.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-f3c37fa7155570247a4159a712a44438_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B_converted497f3111707b8177473c0c39e896484d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-3a0abe0fe0ef752be655028d47db5c35_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B_converted7963179ea805eb8d3770dec964594ad9.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-39b692b0621910a0dbfd8824e014d9fd_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B_converted8e7a050d5733a0aac5e1ef553460db00.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-3714175d15f37e385c0d80f1c8f4fb42_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA_convertedcb191e71905625fa5d2bb01ce11cfa02.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-1b4876e8f89cb8bcb2fe98c3b7775ab2_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B_converted6bf562c745484084f041823a8a569d32.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-be9491830eef0a52b8f715230c2b720f_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B_converteda24aa8a278465126729f0d40180643d7.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-2dff8663740c6f663569532bf1fc565b_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B_convertedf79f7c6db46a8b62d1720871c690889d.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-f3c37fa7155570247a4159a712a44438_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B_converted497f3111707b8177473c0c39e896484d.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-3a0abe0fe0ef752be655028d47db5c35_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B_converted7963179ea805eb8d3770dec964594ad9.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-39b692b0621910a0dbfd8824e014d9fd_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B_converted8e7a050d5733a0aac5e1ef553460db00.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in//wp-content/uploads/al_opt_content/FONT/jmbrand.in/wp-content/fonts/inter/679c5f8e190636543d877ee0-3714175d15f37e385c0d80f1c8f4fb42_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA_convertedcb191e71905625fa5d2bb01ce11cfa02.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-df55b7e4505c6fa21be7a8cdfc2628fd_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-fdccea76ce7e735503cffbd2accfb7bb_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-af80f405a455ad0fd06d69e227feec97_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-eb1153edf8ab6f0d0c98dc0266fb60cf_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-5fc7f74343d1d1e697f970dd4943111e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-26859342514946edd3e8dceb17f55c92_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-30a274cd01b6eeb0b082c918b0697f1e_UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:swap;src:url('https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-9c9cff93a0d5a209225c1bae18d80a9d_Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:swap;src:url('https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-b782b01afc9646c7259701b07e2a71d0_cardo_normal_400.woff2') format('woff2');; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-aa7c5fa494807f7a9ec907defee083e8_fa-regular-400.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-3c264849ff4eb9b6e99eab9cd54c80ae_fa-regular-400.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b55b1345f0b919f0cab774ec25d6654e_fa-brands-400.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b7dee83cb5ee2c47b053e2620f4bbb78_fa-brands-400.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-1ec0ba058c021acf7feaa18081445d63_fa-solid-900.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-0a95f951745ba02faa8773ea6a1ebaed_fa-solid-900.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face{font-display:swap;font-family:WooCommerce;src:url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-c393f8a4a0b17c9054f46f3cce498afd_WooCommerce.woff2) format("woff2"),url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-dc54d4f864988c37c703a607320e805a_WooCommerce.woff) format("woff"),url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf) format("truetype");font-weight:400;font-style:normal; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face{font-display:swap;font-family:star;src:url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-c393f8a4a0b17c9054f46f3cce498afd_WooCommerce.woff2) format("woff2"),url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-dc54d4f864988c37c703a607320e805a_WooCommerce.woff) format("woff"),url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/woocommerce/assets/fonts/679c5f8e190636543d877ee0-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf) format("truetype");font-weight:400;font-style:normal; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-display:swap;
+  font-weight: 400;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-aa7c5fa494807f7a9ec907defee083e8_fa-regular-400.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-3c264849ff4eb9b6e99eab9cd54c80ae_fa-regular-400.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-1ec0ba058c021acf7feaa18081445d63_fa-solid-900.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-0a95f951745ba02faa8773ea6a1ebaed_fa-solid-900.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-display:swap;
+  font-weight: 900;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-1ec0ba058c021acf7feaa18081445d63_fa-solid-900.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-0a95f951745ba02faa8773ea6a1ebaed_fa-solid-900.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b55b1345f0b919f0cab774ec25d6654e_fa-brands-400.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b7dee83cb5ee2c47b053e2620f4bbb78_fa-brands-400.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-display:swap;
+  font-weight: 400;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b55b1345f0b919f0cab774ec25d6654e_fa-brands-400.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-b7dee83cb5ee2c47b053e2620f4bbb78_fa-brands-400.ttf") format("truetype"); ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-be9491830eef0a52b8f715230c2b720f_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-aa7c5fa494807f7a9ec907defee083e8_fa-regular-400.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-3c264849ff4eb9b6e99eab9cd54c80ae_fa-regular-400.ttf") format("truetype");
+  unicode-range: U+F003,U+F006,U+F014,U+F016-F017,U+F01A-F01B,U+F01D,U+F022,U+F03E,U+F044,U+F046,U+F05C-F05D,U+F06E,U+F070,U+F087-F088,U+F08A,U+F094,U+F096-F097,U+F09D,U+F0A0,U+F0A2,U+F0A4-F0A7,U+F0C5,U+F0C7,U+F0E5-F0E6,U+F0EB,U+F0F6-F0F8,U+F10C,U+F114-F115,U+F118-F11A,U+F11C-F11D,U+F133,U+F147,U+F14E,U+F150-F152,U+F185-F186,U+F18E,U+F190-F192,U+F196,U+F1C1-F1C9,U+F1D9,U+F1DB,U+F1E3,U+F1EA,U+F1F7,U+F1F9,U+F20A,U+F247-F248,U+F24A,U+F24D,U+F255-F25B,U+F25D,U+F271-F274,U+F278,U+F27B,U+F28C,U+F28E,U+F29C,U+F2B5,U+F2B7,U+F2BA,U+F2BC,U+F2BE,U+F2C0-F2C1,U+F2C3,U+F2D0,U+F2D2,U+F2D4,U+F2DC; ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-1b4876e8f89cb8bcb2fe98c3b7775ab2_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-2dff8663740c6f663569532bf1fc565b_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'FontAwesome';
+  font-display:swap;
+  src: url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-fdb652dcc200dd23b8b8040176858c36_fa-v4compatibility.woff2") format("woff2"), url("https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/themes/printing-press/assets/webfonts/679c5f8e190636543d877ee0-95b97efa98f9e3fb869bc9634c43a0cc_fa-v4compatibility.ttf") format("truetype");
+  unicode-range: U+F041,U+F047,U+F065-F066,U+F07D-F07E,U+F080,U+F08B,U+F08E,U+F090,U+F09A,U+F0AC,U+F0AE,U+F0B2,U+F0D0,U+F0D6,U+F0E4,U+F0EC,U+F10A-F10B,U+F123,U+F13E,U+F148-F149,U+F14C,U+F156,U+F15E,U+F160-F161,U+F163,U+F175-F178,U+F195,U+F1F8,U+F219,U+F27A; ; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-3a0abe0fe0ef752be655028d47db5c35_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-39b692b0621910a0dbfd8824e014d9fd_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-f3c37fa7155570247a4159a712a44438_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-3714175d15f37e385c0d80f1c8f4fb42_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-1b4876e8f89cb8bcb2fe98c3b7775ab2_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-2dff8663740c6f663569532bf1fc565b_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-f3c37fa7155570247a4159a712a44438_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-3a0abe0fe0ef752be655028d47db5c35_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-39b692b0621910a0dbfd8824e014d9fd_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-be9491830eef0a52b8f715230c2b720f_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-3714175d15f37e385c0d80f1c8f4fb42_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-1b4876e8f89cb8bcb2fe98c3b7775ab2_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZJhiI2B.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-f3c37fa7155570247a4159a712a44438_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZxhiI2B.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-be9491830eef0a52b8f715230c2b720f_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthiI2B.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-3a0abe0fe0ef752be655028d47db5c35_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZBhiI2B.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-39b692b0621910a0dbfd8824e014d9fd_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZFhiI2B.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-2dff8663740c6f663569532bf1fc565b_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZNhiI2B.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/fonts/inter/679c5f8e190636543d877ee0-3714175d15f37e385c0d80f1c8f4fb42_UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}

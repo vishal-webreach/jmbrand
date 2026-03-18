@@ -1,0 +1,16 @@
+/*!
+ * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url("http://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/68ca787b19063655e0b4971b/68ca787b19063655e0b4971b-1042e8ca1ce821518a2d3e7055410839_fa-solid-900.eot");
+  src: url("http://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/68ca787b19063655e0b4971b/68ca787b19063655e0b4971b-1042e8ca1ce821518a2d3e7055410839_fa-solid-900.eot?#iefix") format("embedded-opentype"), url("http://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/68ca787b19063655e0b4971b/68ca787b19063655e0b4971b-e8a427e15cc502bef99cfd722b37ea98_fa-solid-900.woff2") format("woff2"), url("http://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/68ca787b19063655e0b4971b/68ca787b19063655e0b4971b-9fe5a17c8ab036d20e6c5ba3fd2ac511_fa-solid-900.woff") format("woff"), url("http://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/68ca787b19063655e0b4971b/68ca787b19063655e0b4971b-605ed7926cf39a2ad5ec2d1f9d391d3d_fa-solid-900.ttf") format("truetype"), url("http://jmbrand.in/wp-content/uploads/al_opt_content/FONT/jmbrand.in/./wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/68ca787b19063655e0b4971b/68ca787b19063655e0b4971b-376c1f97f6553dea1ca9b3f9081889bd_fa-solid-900.svg#fontawesome") format("svg"); }
+
+.fa,
+.fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900; }

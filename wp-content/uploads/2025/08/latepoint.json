@@ -1,0 +1,386 @@
+{
+    "{{TABLE_PREFIX}}latepoint_services": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_services` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `name` varchar(255) NOT NULL,\n  `short_description` text DEFAULT NULL,\n  `is_price_variable` tinyint(1) DEFAULT NULL,\n  `price_min` decimal(20,4) DEFAULT NULL,\n  `price_max` decimal(20,4) DEFAULT NULL,\n  `charge_amount` decimal(20,4) DEFAULT NULL,\n  `deposit_amount` decimal(20,4) DEFAULT NULL,\n  `is_deposit_required` tinyint(1) DEFAULT NULL,\n  `duration_name` varchar(255) DEFAULT NULL,\n  `override_default_booking_status` varchar(255) DEFAULT NULL,\n  `duration` int(11) NOT NULL,\n  `buffer_before` int(11) DEFAULT NULL,\n  `buffer_after` int(11) DEFAULT NULL,\n  `category_id` int(11) DEFAULT NULL,\n  `order_number` int(11) DEFAULT NULL,\n  `selection_image_id` int(11) DEFAULT NULL,\n  `description_image_id` int(11) DEFAULT NULL,\n  `bg_color` varchar(20) DEFAULT NULL,\n  `timeblock_interval` int(11) DEFAULT NULL,\n  `capacity_min` int(4) DEFAULT NULL,\n  `capacity_max` int(4) DEFAULT NULL,\n  `status` varchar(20) NOT NULL,\n  `visibility` varchar(20) NOT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `category_id_index` (`category_id`),\n  KEY `order_number_index` (`order_number`),\n  KEY `status_index` (`status`)\n) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "name": "Creative Design",
+                "short_description": "",
+                "is_price_variable": null,
+                "price_min": "0.0000",
+                "price_max": "0.0000",
+                "charge_amount": "0.0000",
+                "deposit_amount": "0.0000",
+                "is_deposit_required": null,
+                "duration_name": "",
+                "override_default_booking_status": "",
+                "duration": "60",
+                "buffer_before": "30",
+                "buffer_after": "30",
+                "category_id": "0",
+                "order_number": null,
+                "selection_image_id": "77",
+                "description_image_id": "0",
+                "bg_color": "#2752E4",
+                "timeblock_interval": "30",
+                "capacity_min": "1",
+                "capacity_max": "1",
+                "status": "active",
+                "visibility": "visible",
+                "created_at": "2025-07-10 10:58:22",
+                "updated_at": "2025-07-10 11:01:10"
+            },
+            {
+                "id": "2",
+                "name": "Research & Development",
+                "short_description": "",
+                "is_price_variable": null,
+                "price_min": "0.0000",
+                "price_max": "0.0000",
+                "charge_amount": "0.0000",
+                "deposit_amount": "0.0000",
+                "is_deposit_required": null,
+                "duration_name": "",
+                "override_default_booking_status": "",
+                "duration": "60",
+                "buffer_before": "30",
+                "buffer_after": "30",
+                "category_id": "0",
+                "order_number": null,
+                "selection_image_id": "69",
+                "description_image_id": "0",
+                "bg_color": "#C066F1",
+                "timeblock_interval": "30",
+                "capacity_min": "1",
+                "capacity_max": "1",
+                "status": "active",
+                "visibility": "visible",
+                "created_at": "2025-07-10 10:59:24",
+                "updated_at": "2025-07-10 11:00:57"
+            },
+            {
+                "id": "3",
+                "name": "Branding & Marketing",
+                "short_description": "",
+                "is_price_variable": null,
+                "price_min": "0.0000",
+                "price_max": "0.0000",
+                "charge_amount": "0.0000",
+                "deposit_amount": "0.0000",
+                "is_deposit_required": null,
+                "duration_name": "",
+                "override_default_booking_status": "",
+                "duration": "60",
+                "buffer_before": "30",
+                "buffer_after": "30",
+                "category_id": "0",
+                "order_number": null,
+                "selection_image_id": "75",
+                "description_image_id": "0",
+                "bg_color": "#26B7DD",
+                "timeblock_interval": "30",
+                "capacity_min": "1",
+                "capacity_max": "1",
+                "status": "active",
+                "visibility": "visible",
+                "created_at": "2025-07-10 11:00:05",
+                "updated_at": "2025-07-10 11:01:26"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_settings": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_settings` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `name` varchar(110) NOT NULL,\n  `value` longtext DEFAULT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `name_index` (`name`)\n) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "name": "default_booking_status",
+                "value": "approved",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "2",
+                "name": "timeslot_blocking_statuses",
+                "value": "approved",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "3",
+                "name": "calendar_hidden_statuses",
+                "value": "cancelled",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "4",
+                "name": "need_action_statuses",
+                "value": "pending,payment_pending",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "5",
+                "name": "is_database_seeded",
+                "value": "1",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "6",
+                "name": "page_url_customer_dashboard",
+                "value": "\/customer-cabinet",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "7",
+                "name": "page_url_customer_login",
+                "value": "\/customer-cabinet",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            },
+            {
+                "id": "8",
+                "name": "step_codes_in_order",
+                "value": "booking__services,booking__agents,booking__datepicker,customer,verify,payment__times,payment__portions,payment__methods,payment__processors,payment__pay,confirmation",
+                "created_at": "2025-04-07 11:31:55",
+                "updated_at": "2025-04-07 11:31:55"
+            },
+            {
+                "id": "9",
+                "name": "steps_settings",
+                "value": "a:12:{s:6:\"shared\";a:1:{s:18:\"steps_support_text\";s:54:\"<h5>Questions?<\/h5><p>Call (858) 939-3746 for help<\/p>\";}s:17:\"booking__services\";a:3:{s:18:\"side_panel_heading\";s:17:\"Service Selection\";s:22:\"side_panel_description\";s:69:\"Please select a service for which you want to schedule an appointment\";s:18:\"main_panel_heading\";s:18:\"Available Services\";}s:15:\"booking__agents\";a:3:{s:18:\"side_panel_heading\";s:15:\"Agent Selection\";s:22:\"side_panel_description\";s:59:\"Please select an agent that will be providing you a service\";s:18:\"main_panel_heading\";s:16:\"Available Agents\";}s:19:\"booking__datepicker\";a:3:{s:18:\"side_panel_heading\";s:18:\"Select Date & Time\";s:22:\"side_panel_description\";s:48:\"Please select date and time for your appointment\";s:18:\"main_panel_heading\";s:21:\"Date & Time Selection\";}s:8:\"customer\";a:3:{s:18:\"side_panel_heading\";s:22:\"Enter Your Information\";s:22:\"side_panel_description\";s:37:\"Please enter your contact information\";s:18:\"main_panel_heading\";s:20:\"Customer Information\";}s:6:\"verify\";a:3:{s:18:\"side_panel_heading\";s:20:\"Verify Order Details\";s:22:\"side_panel_description\";s:86:\"Double check your reservation details and click submit button if everything is correct\";s:18:\"main_panel_heading\";s:20:\"Verify Order Details\";}s:14:\"payment__times\";a:3:{s:18:\"side_panel_heading\";s:22:\"Payment Time Selection\";s:22:\"side_panel_description\";s:61:\"Please choose when you would like to pay for your appointment\";s:18:\"main_panel_heading\";s:27:\"When would you like to pay?\";}s:17:\"payment__portions\";a:3:{s:18:\"side_panel_heading\";s:25:\"Payment Portion Selection\";s:22:\"side_panel_description\";s:48:\"Please select how much you would like to pay now\";s:18:\"main_panel_heading\";s:35:\"How much would you like to pay now?\";}s:16:\"payment__methods\";a:3:{s:18:\"side_panel_heading\";s:24:\"Payment Method Selection\";s:22:\"side_panel_description\";s:68:\"Please select a payment method you would like to make a payment with\";s:18:\"main_panel_heading\";s:21:\"Select payment method\";}s:19:\"payment__processors\";a:3:{s:18:\"side_panel_heading\";s:27:\"Payment Processor Selection\";s:22:\"side_panel_description\";s:70:\"Please select a payment processor you want to process the payment with\";s:18:\"main_panel_heading\";s:24:\"Select payment processor\";}s:12:\"payment__pay\";a:3:{s:18:\"side_panel_heading\";s:14:\"Make a Payment\";s:22:\"side_panel_description\";s:67:\"Please enter your payment information so we can process the payment\";s:18:\"main_panel_heading\";s:30:\"Enter your payment information\";}s:12:\"confirmation\";a:3:{s:18:\"side_panel_heading\";s:12:\"Confirmation\";s:22:\"side_panel_description\";s:76:\"Your order has been placed. Please retain this confirmation for your record.\";s:18:\"main_panel_heading\";s:18:\"Order Confirmation\";}}",
+                "created_at": "2025-04-07 11:31:55",
+                "updated_at": "2025-04-07 11:31:55"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_work_periods": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_work_periods` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `agent_id` int(11) NOT NULL,\n  `service_id` int(11) NOT NULL,\n  `location_id` int(11) NOT NULL,\n  `start_time` smallint(6) NOT NULL,\n  `end_time` smallint(6) NOT NULL,\n  `week_day` tinyint(3) NOT NULL,\n  `custom_date` date DEFAULT NULL,\n  `chain_id` varchar(20) DEFAULT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `agent_id_index` (`agent_id`),\n  KEY `service_id_index` (`service_id`),\n  KEY `location_id_index` (`location_id`),\n  KEY `week_day_index` (`week_day`),\n  KEY `custom_date_index` (`custom_date`)\n) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "1",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            },
+            {
+                "id": "2",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "2",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            },
+            {
+                "id": "3",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "3",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            },
+            {
+                "id": "4",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "4",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            },
+            {
+                "id": "5",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "5",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            },
+            {
+                "id": "6",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "6",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            },
+            {
+                "id": "7",
+                "agent_id": "0",
+                "service_id": "0",
+                "location_id": "0",
+                "start_time": "480",
+                "end_time": "1020",
+                "week_day": "7",
+                "custom_date": null,
+                "chain_id": null,
+                "created_at": "2025-04-07 11:29:02",
+                "updated_at": "2025-04-07 11:29:02"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_agents_services": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_agents_services` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `agent_id` int(11) NOT NULL,\n  `service_id` int(11) NOT NULL,\n  `location_id` int(11) DEFAULT NULL,\n  `is_custom_hours` tinyint(1) DEFAULT NULL,\n  `is_custom_price` tinyint(1) DEFAULT NULL,\n  `is_custom_duration` tinyint(1) DEFAULT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `agent_id_index` (`agent_id`),\n  KEY `service_id_index` (`service_id`),\n  KEY `location_id_index` (`location_id`)\n) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "agent_id": "1",
+                "service_id": "1",
+                "location_id": "1",
+                "is_custom_hours": "0",
+                "is_custom_price": "0",
+                "is_custom_duration": "0",
+                "created_at": "2025-07-10 10:58:22",
+                "updated_at": "2025-07-10 10:58:22"
+            },
+            {
+                "id": "2",
+                "agent_id": "1",
+                "service_id": "2",
+                "location_id": "1",
+                "is_custom_hours": "0",
+                "is_custom_price": "0",
+                "is_custom_duration": "0",
+                "created_at": "2025-07-10 10:59:24",
+                "updated_at": "2025-07-10 10:59:24"
+            },
+            {
+                "id": "3",
+                "agent_id": "1",
+                "service_id": "3",
+                "location_id": "1",
+                "is_custom_hours": "0",
+                "is_custom_price": "0",
+                "is_custom_duration": "0",
+                "created_at": "2025-07-10 11:00:05",
+                "updated_at": "2025-07-10 11:00:05"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_agents": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_agents` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `avatar_image_id` int(11) DEFAULT NULL,\n  `bio_image_id` int(11) DEFAULT NULL,\n  `first_name` varchar(255) NOT NULL,\n  `last_name` varchar(255) DEFAULT NULL,\n  `display_name` varchar(255) DEFAULT NULL,\n  `title` varchar(255) DEFAULT NULL,\n  `bio` text DEFAULT NULL,\n  `features` text DEFAULT NULL,\n  `email` varchar(110) NOT NULL,\n  `phone` varchar(255) DEFAULT NULL,\n  `password` varchar(255) DEFAULT NULL,\n  `custom_hours` tinyint(1) DEFAULT NULL,\n  `wp_user_id` int(11) DEFAULT NULL,\n  `status` varchar(20) NOT NULL,\n  `extra_emails` text DEFAULT NULL,\n  `extra_phones` text DEFAULT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `email_index` (`email`)\n) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "avatar_image_id": null,
+                "bio_image_id": null,
+                "first_name": "Jamie ",
+                "last_name": "Lee",
+                "display_name": null,
+                "title": null,
+                "bio": null,
+                "features": "null",
+                "email": "mail@example.com",
+                "phone": "+11234564568",
+                "password": "$P$B9DibCFkmL2F08A4ZFTAf\/Htpdg0sh0",
+                "custom_hours": null,
+                "wp_user_id": null,
+                "status": "active",
+                "extra_emails": null,
+                "extra_phones": null,
+                "created_at": "2025-04-07 11:31:27",
+                "updated_at": "2025-04-07 11:39:09"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_service_meta": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_service_meta` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `object_id` mediumint(9) NOT NULL,\n  `meta_key` varchar(110) NOT NULL,\n  `meta_value` text DEFAULT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `meta_key_index` (`meta_key`),\n  KEY `object_id_index` (`object_id`)\n) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "object_id": "1",
+                "meta_key": "durations",
+                "meta_value": "[]",
+                "created_at": "2025-07-10 10:58:22",
+                "updated_at": "2025-07-10 11:01:10"
+            },
+            {
+                "id": "2",
+                "object_id": "2",
+                "meta_key": "durations",
+                "meta_value": "[]",
+                "created_at": "2025-07-10 10:59:24",
+                "updated_at": "2025-07-10 11:00:57"
+            },
+            {
+                "id": "3",
+                "object_id": "3",
+                "meta_key": "durations",
+                "meta_value": "[]",
+                "created_at": "2025-07-10 11:00:05",
+                "updated_at": "2025-07-10 11:01:26"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_locations": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_locations` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `name` varchar(255) NOT NULL,\n  `full_address` text DEFAULT NULL,\n  `status` varchar(20) NOT NULL,\n  `category_id` int(11) DEFAULT NULL,\n  `order_number` int(11) DEFAULT NULL,\n  `selection_image_id` int(11) DEFAULT NULL,\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`),\n  KEY `status_index` (`status`)\n) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "name": "Main Location",
+                "full_address": null,
+                "status": "active",
+                "category_id": "0",
+                "order_number": null,
+                "selection_image_id": null,
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            }
+        ]
+    },
+    "{{TABLE_PREFIX}}latepoint_processes": {
+        "create": "CREATE TABLE `{{TABLE_PREFIX}}latepoint_processes` (\n  `id` mediumint(9) NOT NULL AUTO_INCREMENT,\n  `name` varchar(110) NOT NULL,\n  `event_type` varchar(110) NOT NULL,\n  `actions_json` text DEFAULT NULL,\n  `status` varchar(30) DEFAULT 'active',\n  `created_at` datetime DEFAULT NULL,\n  `updated_at` datetime DEFAULT NULL,\n  PRIMARY KEY (`id`)\n) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci",
+        "prefix": "shark_836_",
+        "data": [
+            {
+                "id": "1",
+                "name": "New Booking Notification",
+                "event_type": "booking_created",
+                "actions_json": "[{\"type\":\"group\",\"trigger_condition\":false,\"items\":[{\"type\":\"action\",\"id\":\"pa_sJQRB8\",\"settings\":{\"status\":\"active\",\"type\":\"send_email\",\"settings\":{\"to_email\":\"{{agent_full_name}} <{{agent_email}}>\",\"subject\":\"New Appointment Received\",\"content\":\"<div style=\\\"padding: 20px; background-color: #f0f0f0; font-family: -apple-system, system-ui, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, sans-serif;\\\">\\n\\t<div style=\\\"background-color: #fff; padding: 30px; margin: 0px auto; max-width: 450px; box-shadow: 0px 2px 6px -1px rgba(0,0,0,0.2); border-radius: 6px;\\\">\\n\\t\\t<div style=\\\"margin: 0px auto 30px auto; border-bottom: 1px solid #eee; padding-bottom: 20px;\\\">\\n\\t\\t\\t<table style=\\\"width: 100%;\\\">\\n\\t\\t\\t\\t<tr>\\n\\t\\t\\t\\t\\t<td>{{business_logo_image}}<\\\/td>\\n\\t\\t\\t\\t\\t<td style=\\\"text-align: right;\\\"><span style=\\\"color: #7b7b7b;\\\">Questions?<\\\/span><br\\\/><strong>{{business_phone}}<\\\/strong><\\\/td>\\n\\t\\t\\t\\t<\\\/tr>\\n\\t\\t\\t<\\\/table>\\n\\t\\t<\\\/div>\\n\\t\\t<div style=\\\"font-size: 16px; line-height: 1.5;\\\">\\n\\t\\t\\t<div style=\\\"font-size: 16px; margin-bottom: 20px; line-height: 1.6;\\\">\\n\\tHi {{agent_full_name}},\\n\\t<br\\\/><br\\\/>\\n\\tYou have received a new appointment request from {{customer_full_name}}\\n<\\\/div>\\n<h4 style=\\\"margin-bottom: 10px; margin-top: 0px; font-size: 16px; font-weight: bold;\\\">Customer Information<\\\/h4>\\n<ul>\\n\\t<li>\\n\\t\\t<span>Full Name:<\\\/span> <strong>{{customer_full_name}}<\\\/strong>\\n\\t<\\\/li>\\n\\t<li>\\n\\t\\t<span>Email Address:<\\\/span> <strong>{{customer_email}}<\\\/strong>\\n\\t<\\\/li>\\n\\t<li>\\n\\t\\t<span>Phone:<\\\/span> <strong>{{customer_phone}}<\\\/strong>\\n\\t<\\\/li>\\n\\t<li>\\n\\t\\t<span>Comments:<\\\/span> <strong>{{customer_notes}}<\\\/strong>\\n\\t<\\\/li>\\n<\\\/ul>\\n<h4 style=\\\"margin-bottom: 10px; margin-top: 0px; font-size: 16px; font-weight: bold;\\\">Appointment Information<\\\/h4>\\n<ul>\\n\\t<li>\\n\\t\\t<span>Service:<\\\/span> <strong>{{service_name}}<\\\/strong>\\n\\t<\\\/li>\\n\\t<li>\\n\\t\\t<span>Date, Time:<\\\/span> <strong>{{start_date}}, {{start_time}} - {{end_time}}<\\\/strong>\\n\\t<\\\/li>\\n<\\\/ul>\\n<h4 style=\\\"margin-bottom: 10px; margin-top: 0px; font-size: 16px; font-weight: bold;\\\">Order Summary<\\\/h4>\\n<div style=\\\"margin-bottom: 20px;\\\">{{order_summary_breakdown}}<\\\/div>\\n<div style=\\\"margin-top: 25px;\\\">\\n\\t<a href=\\\"{{manage_booking_url_agent}}\\\" style=\\\"display: block; text-decoration: none; padding: 10px; border-radius: 6px; text-align: center; font-size: 18px; color: #fff; background-color: #1e7bff; font-weight: 700;\\\">Manage This Appointment<\\\/a>\\n<\\\/div>\\n\\t\\t<\\\/div>\\n\\t<\\\/div>\\n\\t<div style=\\\"max-width: 450px; margin: 10px auto; text-align: center;\\\">{{business_address}}<\\\/div>\\n<\\\/div>\"}}},{\"type\":\"action\",\"id\":\"pa_e0Ev6j\",\"settings\":{\"status\":\"active\",\"type\":\"send_email\",\"settings\":{\"to_email\":\"{{customer_full_name}} <{{customer_email}}>\",\"subject\":\"Appointment Confirmation\",\"content\":\"<div style=\\\"padding: 20px; background-color: #f0f0f0; font-family: -apple-system, system-ui, BlinkMacSystemFont, \\\"Segoe UI\\\", Roboto, \\\"Helvetica Neue\\\", Arial, sans-serif;\\\">\\n\\t<div style=\\\"background-color: #fff; padding: 30px; margin: 0px auto; max-width: 450px; box-shadow: 0px 2px 6px -1px rgba(0,0,0,0.2); border-radius: 6px;\\\">\\n\\t\\t<div style=\\\"margin: 0px auto 30px auto; border-bottom: 1px solid #eee; padding-bottom: 20px;\\\">\\n\\t\\t\\t<table style=\\\"width: 100%;\\\">\\n\\t\\t\\t\\t<tr>\\n\\t\\t\\t\\t\\t<td>{{business_logo_image}}<\\\/td>\\n\\t\\t\\t\\t\\t<td style=\\\"text-align: right;\\\"><span style=\\\"color: #7b7b7b;\\\">Questions?<\\\/span><br\\\/><strong>{{business_phone}}<\\\/strong><\\\/td>\\n\\t\\t\\t\\t<\\\/tr>\\n\\t\\t\\t<\\\/table>\\n\\t\\t<\\\/div>\\n\\t\\t<div style=\\\"font-size: 16px; line-height: 1.5;\\\">\\n\\t\\t\\t<div style=\\\"font-size: 16px; margin-bottom: 20px; line-height: 1.6;\\\">\\n\\tHi {{customer_full_name}},\\n\\t<br>\\n\\t<br>\\n\\tYour {{service_name}} appointment with <strong>{{agent_full_name}}<\\\/strong> is <strong>{{booking_status}}<\\\/strong>.\\n<\\\/div>\\n<h4 style=\\\"margin-bottom: 10px; margin-top: 0px; font-size: 16px; font-weight: bold;\\\">Appointment Details:<\\\/h4>\\n<ul>\\n\\t<li>\\n\\t\\t<span>Agent:<\\\/span> <strong>{{agent_full_name}}<\\\/strong>\\n\\t<\\\/li>\\n\\t<li>\\n\\t\\t<span>Service:<\\\/span> <strong>{{service_name}}<\\\/strong>\\n\\t<\\\/li>\\n\\t<li>\\n\\t\\t<span>Date, Time:<\\\/span> <strong>{{start_date}}, {{start_time}} - {{end_time}}<\\\/strong>\\n\\t<\\\/li>\\n<\\\/ul>\\n<h4 style=\\\"margin-bottom: 10px; margin-top: 0px; font-size: 16px; font-weight: bold;\\\">Order Summary<\\\/h4>\\n<div style=\\\"margin-bottom: 20px;\\\">{{order_summary_breakdown}}<\\\/div>\\n<div style=\\\"margin-top: 25px;\\\">\\n\\t<a href=\\\"{{manage_booking_url_customer}}\\\" style=\\\"display: block; text-decoration: none; padding: 10px; border-radius: 6px; text-align: center; font-size: 18px; color: #fff; background-color: #1e7bff; font-weight: 700;\\\">Manage This Appointment<\\\/a>\\n<\\\/div>\\n\\t\\t<\\\/div>\\n\\t<\\\/div>\\n\\t<div style=\\\"max-width: 450px; margin: 10px auto; text-align: center;\\\">{{business_address}}<\\\/div>\\n<\\\/div>\"}}}],\"time_offset\":[]}]",
+                "status": "active",
+                "created_at": "2025-04-07 11:28:55",
+                "updated_at": "2025-04-07 11:28:55"
+            }
+        ]
+    }
+}

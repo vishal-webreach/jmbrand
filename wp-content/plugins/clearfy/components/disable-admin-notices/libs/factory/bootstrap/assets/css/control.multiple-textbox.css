@@ -1,0 +1,37 @@
+.factory-bootstrap-482 .factory-mtextbox-item {
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.factory-bootstrap-482 .factory-mtextbox-item input, .factory-mtextbox-remove-item {
+    display: inline-block;
+}
+
+.factory-bootstrap-482 .factory-mtextbox-item .factory-mtextbox-remove-item {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 40px;
+    border-radius: 0 3px 3px 0;
+    outline: none;
+    /*background: #fbe3e3;
+    color: #9c7070;
+    box-shadow: none;*/
+}
+
+.factory-bootstrap-482 .factory-mtextbox-item .factory-mtextbox-remove-item:hover,
+.factory-bootstrap-482 .factory-mtextbox-item .factory-mtextbox-remove-item:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+/*.factory-bootstrap-482 .factory-mtextbox-item .factory-mtextbox-remove-item:hover {
+    background: #fbe3e3;
+    color: #9c7070;
+}*/
+
+.factory-bootstrap-482 .factory-mtextbox-add-item {
+    display: block;
+    margin-top: 10px;
+}

@@ -1,0 +1,15 @@
+@CharSet "utf-8";
+@IMPORT url(/wp-content/plugins/accelerated-mobile-pages/includes/vendor/css-parser/sabberworm/php-css-parser/tests/files/test.css);
+
+@MEDIA screen {
+
+}
+
+#myid {
+	CaSe: insensitive !imPORTANT;
+	frequency: 30hz;
+	font-size: 1EM;
+	color: RGB(255, 255, 0);
+	color: hSL(40, 40%, 30%);
+	font-Family: Arial; /* The value needs to remain capitalized */
+}
