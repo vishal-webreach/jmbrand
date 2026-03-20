@@ -133,7 +133,7 @@ body {
 
 /* Need this specificity to override the existing link rule */
 #akismet-plugin-container a.akismet-masthead__back-link {
-	background-image: url(/wp-content/plugins/akismet/_inc/img/arrow-left.svg);
+	background-image: url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/akismet/_inc/img/arrow-left.svg);
 	background-position: right;
 	background-repeat: no-repeat;
 	background-size: 16px;

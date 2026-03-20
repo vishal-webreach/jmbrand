@@ -1228,7 +1228,7 @@ div#section-ampforwp-ux-section-right, table#section-table-ampforwp-ux-section-r
 }
 .amp-ux-section-right .amp-ux-fly-block .amp-ux-fly-foot-icon{
    float: right;
-    background-image: url(/wp-content/plugins/accelerated-mobile-pages/images/ux-view-fly.png);
+    background-image: url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/images/ux-view-fly.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 20px;
@@ -1245,14 +1245,14 @@ div#section-ampforwp-ux-section-right, table#section-table-ampforwp-ux-section-r
     margin-right: 10px;
 }
 .amp-ux-fly-icon.amp-ux-doc-icon{
-    background-image: url(/wp-content/plugins/accelerated-mobile-pages/images/ux-documentation.png);
+    background-image: url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/images/ux-documentation.png);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: 20px auto;
     background-size: 20px auto;
 }
 .amp-ux-fly-icon.amp-ux-conf-support-icon{
-    background-image: url(/wp-content/plugins/accelerated-mobile-pages/images/ux-support.png);
+    background-image: url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/images/ux-support.png);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: 20px auto;
@@ -1260,7 +1260,7 @@ div#section-ampforwp-ux-section-right, table#section-table-ampforwp-ux-section-r
 }
 .amp-ux-fly-icon.amp-ux-conf-upg-icon{
     background: none;
-    background-image: url(/wp-content/plugins/accelerated-mobile-pages/images/ux-upgrade.png);
+    background-image: url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/images/ux-upgrade.png);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: 50px auto;

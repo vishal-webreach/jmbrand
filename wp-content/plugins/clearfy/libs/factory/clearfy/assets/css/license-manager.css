@@ -305,15 +305,15 @@
 
 #license-manager .license-param-domain {
     padding-left: 65px;
-    background: url('/wp-content/plugins/clearfy/libs/factory/clearfy/assets/img/free-license-chip.png') -3px 0px no-repeat;
+    background: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/libs/factory/clearfy/assets/img/free-license-chip.png') -3px 0px no-repeat;
 }
 
 #license-manager .trial-details-block .license-param-domain {
-    background: url('/wp-content/plugins/clearfy/libs/factory/clearfy/assets/img/trial-license-chip.png') -3px 0px no-repeat;
+    background: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/libs/factory/clearfy/assets/img/trial-license-chip.png') -3px 0px no-repeat;
 }
 
 #license-manager .paid-details-block .license-param-domain {
-    background: url('/wp-content/plugins/clearfy/libs/factory/clearfy/assets/img/paid-license-chip.png') -3px 0px no-repeat;
+    background: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/libs/factory/clearfy/assets/img/paid-license-chip.png') -3px 0px no-repeat;
 }
 
 #license-manager .license-details-block h3 {

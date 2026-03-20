@@ -35,7 +35,7 @@
 {
     content: ' ';
     position: absolute;
-    background: rgba(255, 255, 255, 0.5) url('/wp-content/plugins/clearfy/libs/factory/logger/assets/img/loader.gif') no-repeat center center;
+    background: rgba(255, 255, 255, 0.5) url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/libs/factory/logger/assets/img/loader.gif') no-repeat center center;
     background-size: 64px;
     width: 82%;
     height: 600px;

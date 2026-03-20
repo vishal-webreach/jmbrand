@@ -2801,8 +2801,8 @@ html .factory-bootstrap-482 {
 
 @font-face {
     font-family: 'Glyphicons Halflings';
-    src: url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.eot');
-    src: url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+    src: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.eot');
+    src: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 
 .factory-bootstrap-482 .glyphicon {

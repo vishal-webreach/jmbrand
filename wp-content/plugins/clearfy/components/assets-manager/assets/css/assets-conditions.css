@@ -115,7 +115,7 @@
   padding: 0 6px 0 3px;
 }
 #WBCR-AM .wam-cleditor .wam-cleditor__condition .wam-cleditor__hint-icon {
-  background: url('/wp-content/plugins/clearfy/components/assets-manager/assets/img/help.png') no-repeat 0 0 transparent;
+  background: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/assets-manager/assets/img/help.png') no-repeat 0 0 transparent;
   position: relative;
   height: 14px;
   width: 13px;

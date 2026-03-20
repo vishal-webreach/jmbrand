@@ -1215,9 +1215,9 @@ Layout css
   font-family: 'icomoon';
   font-display: swap;
   src:
-    url('/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.ttf?wtrpmf') format('truetype'),
-    url('/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.woff?wtrpmf') format('woff'),
-    url('/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.svg?wtrpmf#icomoon') format('svg');
+    url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.ttf?wtrpmf') format('truetype'),
+    url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.woff?wtrpmf') format('woff'),
+    url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.svg?wtrpmf#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }

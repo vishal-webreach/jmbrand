@@ -898,7 +898,7 @@ body p {
 #WBCR-AM .wam-help-hint {
   display: inline-block;
   position: relative;
-  background: url(/wp-content/plugins/clearfy/components/assets-manager/assets/img/help.png) no-repeat 0 0 transparent;
+  background: url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/assets-manager/assets/img/help.png) no-repeat 0 0 transparent;
   height: 14px;
   width: 13px;
   cursor: help;
@@ -961,10 +961,10 @@ body p {
   line-height: 0;
 }
 #WBCR-AM .wam-button.js-wam-button__icon--cogs {
-  background: url('/wp-content/plugins/clearfy/components/assets-manager/assets/img/cogs.png') center no-repeat;
+  background: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/assets-manager/assets/img/cogs.png') center no-repeat;
 }
 #WBCR-AM .wam-button.js-wam-button__icon--close {
-  background: url('/wp-content/plugins/clearfy/components/assets-manager/assets/img/close.png') center no-repeat;
+  background: url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/assets-manager/assets/img/close.png') center no-repeat;
 }
 #WBCR-AM .wam-button--default {
   background-color: #eceded;

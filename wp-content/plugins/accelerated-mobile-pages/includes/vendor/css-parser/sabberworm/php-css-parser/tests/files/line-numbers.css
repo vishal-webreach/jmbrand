@@ -20,7 +20,7 @@
     to { top: 200px; } /* line 20 */
 }
 
-@IMPORT url(/wp-content/plugins/accelerated-mobile-pages/includes/vendor/css-parser/sabberworm/php-css-parser/tests/files/test.css); /* line 23 */
+@IMPORT url(https://vishal-webreach.github.io/jmbrand/wp-content/plugins/accelerated-mobile-pages/includes/vendor/css-parser/sabberworm/php-css-parser/tests/files/test.css); /* line 23 */
 
 body {
     background: #FFFFFF url("http://somesite.com/images/someimage.gif") repeat top center; /* line 25 */

@@ -24,7 +24,7 @@
 .factory-bootstrap-482 .factory-pattern .factory-preview {
     width: 100px; 
     height: 26px;
-    background:transparent url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/assets/assets/images/color_picker_pattern.jpg') repeat;
+    background:transparent url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/assets/assets/images/color_picker_pattern.jpg') repeat;
     border:0;  
     border-radius:3px; 
     cursor:pointer;    
@@ -35,7 +35,7 @@
     
 }
 .factory-bootstrap-482 .factory-pattern .factory-preview.factory-empty {
-    background:transparent url('/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/assets/assets/images/color_picker_pattern.jpg') repeat !important;
+    background:transparent url('https://vishal-webreach.github.io/jmbrand/wp-content/plugins/clearfy/components/disable-admin-notices/libs/factory/bootstrap/assets/assets/assets/images/color_picker_pattern.jpg') repeat !important;
 }
 
 /**
